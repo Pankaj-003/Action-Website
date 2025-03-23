@@ -1,0 +1,13 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+.Main-Nav{
+    /* border: 1px solid red; */
+}
+.Nav-ul li{
+    /* border: 1px solid red; */
+    color: rgb(18, 18, 19);
+    padding: 0px 10px;
+    /* background-color: salmon; */
+    /* font-style: ; */
+}
